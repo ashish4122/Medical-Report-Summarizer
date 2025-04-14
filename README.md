@@ -1,8 +1,8 @@
-# Automatic text summarizer
+# Automatic text summarizer/Medical Reports Summarizer
 
 
-[![image](https://github.com/miso-belica/sumy/actions/workflows/run-tests.yml/badge.svg)](https://github.com/miso-belica/sumy/actions/workflows/run-tests.yml)
-[![GitPod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/miso-belica/sumy) 
+
+
 
 Simple library and command line utility for extracting summary from HTML
 pages or plain texts. The package also contains simple evaluation
