@@ -7,7 +7,7 @@
 
 Simple library and command line utility for extracting summary from HTML
 pages or plain texts. The package also contains simple evaluation
-framework for text summaries. Implemented summarization methods are described in the [documentation](docs/summarizators.md). I also maintain a list of [alternative implementations](docs/alternatives.md) of the summarizers in various programming languages.
+framework for text summaries. 
 
 
 
